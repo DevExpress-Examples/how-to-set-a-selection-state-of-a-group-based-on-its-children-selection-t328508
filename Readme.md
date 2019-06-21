@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
 <!-- default file list end -->
 # How to set a selection state of a group based on its children selection
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/t328508/)**
+<!-- run online end -->
 
 
 <p>This example illustrates how to set a selection state of a group based on its children selection.</p>
